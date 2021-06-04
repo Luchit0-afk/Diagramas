@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T14:23:12.151Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="QibzNrvF6XRk-ISGq3rB" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T14:24:56.923Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="L0C06LDM2CkljgIwS84v" version="14.7.6" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="2772" dy="2384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1981" dy="1855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -301,7 +301,7 @@
           <mxGeometry x="300" y="-420" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PUDkS7CEyCO4szzrdiOM-117" value="Hago esta relacion para obtener el nombre y la direccion del cliente" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-310" width="185" height="100" as="geometry" />
+          <mxGeometry x="265" y="-310" width="185" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PUDkS7CEyCO4szzrdiOM-118" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="165" y="-230" width="30" height="20" as="geometry" />
