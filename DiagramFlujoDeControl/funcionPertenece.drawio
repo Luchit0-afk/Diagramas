@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T01:19:34.982Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="J-5o2zKF8lOkp_YBqGjp" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-22T01:54:32.295Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="-H108UgZFhqneTa8OuPx" version="14.8.0" type="github">
   <diagram id="uVHfwz7hwBJN15CDU2kn" name="Page-1">
     <mxGraphModel dx="2213" dy="1026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,8 +85,8 @@
         <mxCell id="LQ5-vdwftCW2QFpn8ofZ-37" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="520" y="700" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LQ5-vdwftCW2QFpn8ofZ-40" value="While(not found &amp;amp;&amp;amp; counter &amp;lt; numberOfItem)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="657" y="440" width="260" height="20" as="geometry" />
+        <mxCell id="LQ5-vdwftCW2QFpn8ofZ-40" value="While(counter &amp;lt; numberOfItem)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="697" y="440" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LQ5-vdwftCW2QFpn8ofZ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LQ5-vdwftCW2QFpn8ofZ-50" target="LQ5-vdwftCW2QFpn8ofZ-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
