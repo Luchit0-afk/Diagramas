@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T17:49:02.558Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="VUVLBlUmdVIey3xW1lAP" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T17:49:48.205Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="eDTTItmffhsT0_QP_kU3" version="14.8.0" type="github">
   <diagram id="56UQtGPYz2prELN5KWn_" name="Page-1">
-    <mxGraphModel dx="2218" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2218" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,10 +176,10 @@
           <mxGeometry x="10" y="930" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-NTv5c6Y36OW_fQLhRgR-71" value="i&amp;nbsp; = i + 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="1169" width="60" height="20" as="geometry" />
+          <mxGeometry x="-70" y="1330" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-NTv5c6Y36OW_fQLhRgR-72" value="res = res + Integer.parseInt(s[len(s)-i])*Math.pow(2,exp)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="1330" width="310" height="20" as="geometry" />
+          <mxGeometry x="-330" y="1169" width="310" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-NTv5c6Y36OW_fQLhRgR-73" value="exp = exp + 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-95" y="1480" width="90" height="20" as="geometry" />
