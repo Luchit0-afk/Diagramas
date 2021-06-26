@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T20:36:56.745Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Lv_5s14F4EB9vQtGzpgj" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T20:46:31.970Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="b34uQfNruWYZFCpWpXo0" version="14.8.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="808" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="970" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,16 +8,37 @@
           <mxGeometry x="110" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="2EItdW4GVE9ytjCgI7yi-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="2EItdW4GVE9ytjCgI7yi-2">
-          <mxGeometry x="45" y="70" width="10" height="110" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
         </mxCell>
         <mxCell id="2EItdW4GVE9ytjCgI7yi-3" value="l :Lista" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="80" width="100" height="300" as="geometry" />
+          <mxGeometry x="810" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="2EItdW4GVE9ytjCgI7yi-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="2EItdW4GVE9ytjCgI7yi-3">
+          <mxGeometry x="45" y="130" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2EItdW4GVE9ytjCgI7yi-26" value="" style="endArrow=classic;html=1;entryX=0.91;entryY=0.834;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.255;exitY=0.325;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="2EItdW4GVE9ytjCgI7yi-3" source="2EItdW4GVE9ytjCgI7yi-23" target="2EItdW4GVE9ytjCgI7yi-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="170" as="sourcePoint" />
+            <mxPoint x="-70" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="210" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2EItdW4GVE9ytjCgI7yi-5" value=":Junta Electoral" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="80" width="100" height="300" as="geometry" />
+          <mxGeometry x="480" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="2EItdW4GVE9ytjCgI7yi-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="2EItdW4GVE9ytjCgI7yi-5">
-          <mxGeometry x="45" y="70" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="2EItdW4GVE9ytjCgI7yi-21" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.9;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2EItdW4GVE9ytjCgI7yi-5" source="2EItdW4GVE9ytjCgI7yi-9" target="2EItdW4GVE9ytjCgI7yi-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="70" as="sourcePoint" />
+            <mxPoint x="57" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="109" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2EItdW4GVE9ytjCgI7yi-10" value="" style="endArrow=classic;html=1;exitX=0.95;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.081;entryY=0.058;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2EItdW4GVE9ytjCgI7yi-6" target="2EItdW4GVE9ytjCgI7yi-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -25,11 +46,48 @@
             <mxPoint x="300" y="154" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2EItdW4GVE9ytjCgI7yi-11" value="main()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="130" width="50" height="20" as="geometry" />
+        <mxCell id="2EItdW4GVE9ytjCgI7yi-11" value="BuscarCandidato(&quot;Siempre Unidos&quot;, SecretarioGeneral)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="310" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2EItdW4GVE9ytjCgI7yi-16" value="c :Candidato" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="80" width="100" height="300" as="geometry" />
+          <mxGeometry x="1090" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="2EItdW4GVE9ytjCgI7yi-22" value="l Lista : buscarLista(&quot;Siempre Unidos&quot;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="140" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2EItdW4GVE9ytjCgI7yi-24" value="" style="endArrow=classic;html=1;exitX=0.9;exitY=0.618;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.271;entryY=0.564;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2EItdW4GVE9ytjCgI7yi-9" target="2EItdW4GVE9ytjCgI7yi-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="270" as="sourcePoint" />
+            <mxPoint x="760" y="255" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="255" />
+              <mxPoint x="750" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2EItdW4GVE9ytjCgI7yi-25" value="buscarLista(&quot;Siempre Unidos&quot;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="230" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2EItdW4GVE9ytjCgI7yi-27" value="c Candidato : buscarCandidato()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="890" y="230" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2EItdW4GVE9ytjCgI7yi-28" value="" style="endArrow=classic;html=1;exitX=0.014;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.152;entryY=0.859;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2EItdW4GVE9ytjCgI7yi-23" target="2EItdW4GVE9ytjCgI7yi-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="300" as="sourcePoint" />
+            <mxPoint x="810" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2EItdW4GVE9ytjCgI7yi-29" value="return c" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="270" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2EItdW4GVE9ytjCgI7yi-30" value="" style="endArrow=classic;html=1;exitX=0.117;exitY=0.982;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.95;entryY=0.883;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2EItdW4GVE9ytjCgI7yi-9" target="2EItdW4GVE9ytjCgI7yi-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="350" as="sourcePoint" />
+            <mxPoint x="520" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2EItdW4GVE9ytjCgI7yi-31" value="return c.getNombre()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
