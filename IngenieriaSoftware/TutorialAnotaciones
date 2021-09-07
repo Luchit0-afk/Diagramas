@@ -1,0 +1,11 @@
+Tutorial
+
+Video:Esperas
+
+Esperas implicitas: Cuando usamos una espera implicita le estamos diciendo a selenium que si no encuentra el elemento en la pagina, espere un tiempo que le especificamos. Al terminar este tiempo, selenium va a hacer una segunda consulta buscando este elemento, si aun no cargo, va a largar una excepcion. Tiempo por defecto:0s.
+
+Esperas explicitas: 
+
+Nos dan la posibilidad de establecer un tiempo maximo de espera pero hacen consultas cada 500 mili segundos, si la condicion que estamos esperando ocurrio pasamos al siguiente paso. Si la condicion no se cumplio despues de pasado el tiempo determinado larga una excepcion.
+
+name = se
